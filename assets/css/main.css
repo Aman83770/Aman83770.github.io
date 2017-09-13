@@ -3945,6 +3945,10 @@
 					line-height: inherit;
 				}
 
+				#sidebar img {
+					display: none;
+				}
+
 				#sidebar nav {
 					height: inherit;
 					line-height: inherit;
